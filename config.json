@@ -1,0 +1,11 @@
+{
+  "owner": "@ZaxSystem__",
+  "resseler": [],
+  "prefix": "/",
+  "delay": 5000,
+  "max_report": 100,
+  "session_file": "session.json",
+  "pairing_code": false,
+  "bot_name": "ZAX666 BOT",
+  "version": "1.0.0"
+}
