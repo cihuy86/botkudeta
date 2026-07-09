@@ -1,0 +1,22 @@
+{
+  "name": "zax666-bot",
+  "version": "1.0.0",
+  "description": "ZAX666 Kudeta Group Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "pair": "node index.js pair",
+    "dev": "nodemon index.js",
+    "termux-setup": "bash termux-setup.sh"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.0",
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "moment": "^2.30.1",
+    "pino": "^8.17.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
